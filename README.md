@@ -32,7 +32,7 @@
 >  **체스보드 크기란?**  
 검정색과 흰색 판이 교차하며 만나는 **내부 모서리 개수**입니다.  
 예를 들어, 체스보드가 9x7 격자라면 크기는 `(8, 6)`입니다.
-![size_counting](chessboard_size_counting_image.jpg)
+![size_counting](chessborad_size_counting_image.jpg)
 
 2. 아래 코드에 크기와 영상 경로를 입력합니다:
 
